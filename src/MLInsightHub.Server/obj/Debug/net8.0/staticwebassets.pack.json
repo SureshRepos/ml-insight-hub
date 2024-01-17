@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MLInsightHub.Server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MLInsightHub.Server.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MLInsightHub.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MLInsightHub.Server.props",
+      "PackagePath": "build\\MLInsightHub.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MLInsightHub.Server.props",
+      "PackagePath": "buildMultiTargeting\\MLInsightHub.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MLInsightHub.Server.props",
+      "PackagePath": "buildTransitive\\MLInsightHub.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

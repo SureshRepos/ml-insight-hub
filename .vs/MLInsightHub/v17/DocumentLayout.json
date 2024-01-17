@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|c:\\users\\srmit\\documents\\azure\\ml-insight-hub\\src\\mlinsighthub.server\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|solutionrelative:src\\mlinsighthub.server\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|c:\\users\\srmit\\documents\\azure\\ml-insight-hub\\src\\mlinsighthub.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|solutionrelative:src\\mlinsighthub.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|c:\\users\\srmit\\documents\\azure\\ml-insight-hub\\src\\mlinsighthub.server\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1567BFB-40DE-476E-B1E1-65DDED439262}|src\\MLInsightHub.Server\\MLInsightHub.Server.csproj|solutionrelative:src\\mlinsighthub.server\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-01-17T22:13:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "src\\MLInsightHub.Server\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T22:12:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "src\\MLInsightHub.Server\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\srmit\\Documents\\Azure\\ml-insight-hub\\src\\MLInsightHub.Server\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "src\\MLInsightHub.Server\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-01-17T22:06:52.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

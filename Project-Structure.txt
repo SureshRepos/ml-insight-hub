@@ -1,0 +1,40 @@
+ml-insight-hub/
+│
+├── MLInsightHub.sln        # Solution file
+│
+├── src/
+│   ├── MLInsightHub.Server/       # Server-side Blazor application
+│   │   ├── MLInsightHub.Server.csproj
+│   │   ├── Pages/                 # Blazor pages and components
+│   │   │   ├── Index.razor
+│   │   │   ├── Category.razor
+│   │   │   ├── ...
+│   │   │
+│   │   ├── Shared/                # Shared components
+│   │   │   ├── MainLayout.razor
+│   │   │   ├── ...
+│   │   │
+│   │   ├── wwwroot/               # Static files
+│   │   │   ├── css/
+│   │   │   │   ├── site.css
+│   │   │   │
+│   │   │   ├── images/
+│   │   │   │   ├── logo.png
+│   │   │   │
+│   │   │   ├── index.html         # Static HTML entry point for prerendering
+│   │   │
+│   │   ├── appsettings.json       # Application settings
+│   │   ├── Program.cs             # Server entry point
+│   │   ├── Startup.cs             # Configuration and services
+│   │   ├── ...
+│
+├── tests/                   # Unit tests
+│   ├── MLInsightHub.Tests.csproj
+│   ├── MLInsightHub.Tests/
+│   │   ├── ...
+│
+├── .gitignore               # Git ignore file
+├── LICENSE.md               # Project license
+├── README.md                # Project readme
+├── CONTRIBUTING.md          # Contribution guidelines
+└── ...
