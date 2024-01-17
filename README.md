@@ -22,7 +22,7 @@ Follow these steps to set up ML Insight Hub locally:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/ml-insight-hub.git
+git clone https://github.com/SureshRepos/ml-insight-hub.git
 cd ml-insight-hub
 
 Build and run the application:
